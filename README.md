@@ -73,8 +73,8 @@ quote: "Striving to turn mathematical intuition and raw data into reliable intel
 
 <div align="center">
   <a href="https://github.com/ngoquangphuc29306">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=ngoquangphuc29306&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="GitHub Stats" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoquangphuc29306&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+    <img height="155em" src="https://github-stats-extended.vercel.app/api?username=ngoquangphuc29306&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&cache_seconds=86400" alt="GitHub Stats" />
+    <img height="155em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ngoquangphuc29306&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" alt="Top Languages" />
   </a>
 </div>
 
