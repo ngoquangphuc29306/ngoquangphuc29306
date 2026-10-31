@@ -54,7 +54,7 @@ quote: "Striving to turn mathematical intuition and raw data into reliable intel
 #### 💻 Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,fastapi,git,linux,docker,supabase&theme=dark" alt="Core Technologies" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,fastapi,git,supabase, c++, c, pytorch&theme=dark" alt="Core Technologies" />
   </a>
 </p>
 
