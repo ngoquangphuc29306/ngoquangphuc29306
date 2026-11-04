@@ -78,7 +78,6 @@ At the end of the day, I want to build a meaningful career, explore the world, a
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-6366F1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
@@ -86,7 +85,8 @@ At the end of the day, I want to build a meaningful career, explore the world, a
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
 </p>
 
 ### ⚙️ Backend Development
